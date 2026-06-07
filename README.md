@@ -1,5 +1,5 @@
-# 📊 Análisis de Eficiencia Energética en Edificios Industriales
-# Analisis Consumo Cementero
+# Análisis de Eficiencia Energética en Edificios Industriales
+
 ## Descripción
 Análisis exploratorio de datos sobre eficiencia energética en edificios 
 industriales, con enfoque en variables físicas que impactan el consumo 
